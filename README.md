@@ -3,7 +3,7 @@ ETAPA 1 - ![image](https://user-images.githubusercontent.com/97459786/227805699-
 - Na etapa 1 você cria um repositorio novo, nesse etapa você cria apenas a pasta no seu computador !
 
 ETAPA 2 - ![image](https://user-images.githubusercontent.com/97459786/227805718-2345777f-7859-42c5-af21-e8e68660b61b.png)
-
+- Na etapa 2 você faz um deploy direto pro git - É nesse momento que se você entrar no seu perfil você vera o repositorio lá ! 
 
 ETAPA 3 - ![image](https://user-images.githubusercontent.com/97459786/227805740-0927d2af-05f3-4391-a26b-1e1e89b8cf7e.png)
 
