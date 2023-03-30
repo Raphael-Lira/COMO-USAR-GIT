@@ -6,7 +6,7 @@ ETAPA 2 - ![image](https://user-images.githubusercontent.com/97459786/227805718-
 - Na etapa 2 você faz um deploy direto pro git - É nesse momento que se você entrar no seu perfil você vera o repositorio lá ! 
 
 ETAPA 3 - ![image](https://user-images.githubusercontent.com/97459786/227805740-0927d2af-05f3-4391-a26b-1e1e89b8cf7e.png)
-
+- Na etapa 3 eu separei para você entender que os seus arquivos de codigo e qualquer outra coisa devem ser colocadas na pasta que foi criada do repositorio ! - Inclusive qualquer atualização feita por lá o github detectara automaticamente
 
 ETAPA 4 - ![image](https://user-images.githubusercontent.com/97459786/227805754-185f8aa5-7d29-413c-99bd-12e64bf86dc6.png)
 
